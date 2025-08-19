@@ -1,5 +1,6 @@
 🚀 AI-Powered Interview Preparation Platform
-An intelligent platform that leverages AI + MERN stack to help job seekers prepare for technical and behavioral interviews. 
+
+An intelligent platform that leverages AI + MERN stack to help job seekers prepare for technical and behavioral interviews.
 This project simulates real-world interview scenarios, provides personalized feedback, and helps candidates improve their confidence and readiness.
 
 📌 Features
@@ -8,6 +9,6 @@ This project simulates real-world interview scenarios, provides personalized fee
 🌐 Full-Stack MERN Application – Seamless integration of MongoDB, Express, React, Node.js.
 
 🛠️ Tech Stack
-Frontend: React.js, TailwindCSS (for UI)
+Frontend: React.js, TailwindCSS
 Backend: Node.js, Express.js
 Database: MongoDB
